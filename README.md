@@ -78,9 +78,9 @@ N/A
 		./sub-1rb98s4z4/fmap/sub-1rb98s4z4_acq-dwi_dir-PA_run-01_epi.nii.gz
 			 The most common set of dimensions is: 132,128,76,2 (voxels), This file has the dimensions: 132,128,80,2 (voxels).
 
-[36m	Please visit https://neurostars.org/search?q=INCONSISTENT_PARAMETERS for existing conversations about this issue.[39m
+Please visit https://neurostars.org/search?q=INCONSISTENT_PARAMETERS for existing conversations about this issue.[39m
 
-        [34m[4mSummary:[24m[39m                   [34m[4mAvailable Tasks:[24m[39m                     [34m[4mAvailable Modalities:[39m[24m 
+        Summary:[24m[39m                   [34m[4mAvailable Tasks:[24m[39m                     [34m[4mAvailable Modalities:[39m[24m 
         2359 Files, 25.34GB        rest                                 MRI                   
         112 - Subjects             TODO: full task name for rest                              
         1 - Session                                                                           
