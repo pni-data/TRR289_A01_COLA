@@ -1,4 +1,4 @@
-# TRR289 A01
+# TRR289_A01_COLA
 
 ## ℹ️ Information
 *This repository is the Github sibling of the corresponding [DataLad](https://www.datalad.org/) dataset, i.e. it **does not** contain the data itself.*
